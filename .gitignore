@@ -1,0 +1,33 @@
+# weights and data: never in git
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+pretrained/
+Manga109s/
+Manga109_segmentation/
+
+# third-party source fetched at setup time, not vendored:
+# external/lama is a clone of advimman/lama (provides `saicinpainting`),
+# and external/lama/big-lama is its 392MB pretrained checkpoint. See README.
+external/
+
+# outputs
+vis/
+fullpage_outputs/
+vis_crops/
+*.log
+runs/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/

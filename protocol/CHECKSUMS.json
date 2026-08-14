@@ -1,0 +1,21 @@
+{
+  "fixed_eval_masks_150.npz": {
+    "pages": 150,
+    "content_sha256": "ea1475aec6f42cf9f757e62306c37703e27e66749e1f0751a7c122eaab9ba3cb",
+    "file_sha256": "a69f75282a938d050f84a67a0f7d66e334c282dc91dfe17ef5959a3803041197",
+    "dropped_keys": [
+      "images",
+      "image_size"
+    ],
+    "bytes": 164690
+  },
+  "fixed_eval_masks_full.npz": {
+    "pages": 907,
+    "content_sha256": "9ede6a39e5499fa69b759f4a1ae5b2d3e807156196735fa728a466c1582cdd06",
+    "file_sha256": "e991bc41ee319e12701d80dccd533e2c30f37dc241fbf7d27b37cd9b6fa0e89d",
+    "dropped_keys": [
+      "images_u8"
+    ],
+    "bytes": 957114
+  }
+}
