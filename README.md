@@ -15,8 +15,6 @@ published yet, so there is no citation or DOI to point at.
 **Bipin Kumar Marasini** · **Nitesh Kumar Sah** ·
 **Ramesh Kathayat** · **Rajad Shakya** (supervisor)
 
-<sup>†</sup> Equal contribution. Affiliation and contact details pending.
-
 ## Results
 
 All models trained by us under one shared recipe, one masking distribution and one
